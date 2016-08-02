@@ -1,6 +1,5 @@
 CS4641 - HW2 - Randomized Optimization
 By: Derrick Williams
-Date: 2016-03-12
 
 Data package:
 ABAGAIL was used to implement this project.  The ABAGAIL "library contains a number of interconnected Java packages that implement machine learning and artificial intelligence algorithms. These are artificial intelligence algorithms implemented for the kind of people that like to implement algorithms themselves." - Pushkar
